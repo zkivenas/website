@@ -13,3 +13,6 @@ your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
 
 Everything stated before this statement, was added per the instrutions of the of the "Learn enough" lessons being followed.
+
+For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
